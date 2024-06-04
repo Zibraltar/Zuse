@@ -14,8 +14,8 @@ const char* password = STAPSK;
 const int led = BUILTIN_LED;
 const int relayPin = D1;
 const int Led_avertissement = D2;
-const int pompe1 = D3;
-const int vanne1 = D4;
+const int pompe1 = D2;
+const int vanne1 = D1;
 const int pompe3 = D5;
 
 // Le serveur Web "écoute" sur le port 80 (port HTTP par défaut)
